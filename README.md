@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m MiniSkeT OriG, A full-stack developer!!<br>👀 I learned how to code from YouTube and as you all know when I face a challenge, StackOverFlow is always there to help.
+👋 Hi, I’m MiniSkeT OriG, A full-stack developer with commitment to building software and providing solutions to people and businesses.
 
 ## 🥷 This is my life:
 <img src="assets/programmergif.gif" width="80%" height="500px" alt="my gif"/>
@@ -34,4 +34,3 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
