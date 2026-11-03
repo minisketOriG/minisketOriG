@@ -16,6 +16,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=minisketOriG&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" valign="top" alt="Top Langs" />
 </p>
 
+---
 <!--Snake Game-->
 ![snake gif](https://github.com/MiniSkeTOriG/MiniSkeTOriG/blob/output/github-snake-dark.svg)
 
