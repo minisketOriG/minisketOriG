@@ -19,9 +19,8 @@
 <!--Snake Game-->
 ![snake gif](https://github.com/MiniSkeTOriG/MiniSkeTOriG/blob/output/github-snake-dark.svg)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=MiniSkeTOriG&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ## 💰 You can help me by Donating
